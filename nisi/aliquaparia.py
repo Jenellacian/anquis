@@ -1,0 +1,1 @@
+if (!drop || cell.num)
